@@ -1,0 +1,29 @@
+
+
+<html>
+<head>
+    <link 
+    rel="stylesheet" href="style.css"
+    />
+</head>
+<body>
+    <div class="background"></div>
+    <div class="card">
+     <img src="./aset rill/logo.png" height="40px"/>  
+        <h2> Welcome Back</h2>
+        <form class="form">
+            <input
+            type="email"
+            placeholder="Username"/>
+            <input
+            type="password"
+            placeholder="Password"
+            <button> Sign In</buttom>
+            <footer>
+                Mau login?
+                <a href="#">kesini woi dulu</a>
+            </footer>
+        </form>
+    </div>
+</body>
+</html>
